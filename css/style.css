@@ -58,7 +58,7 @@ body {
 /* --------------------banner start------------------------- */
 
 #banner {
-  background-image: url(./image/banner.png);
+  background-image: url(../image/banner.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
